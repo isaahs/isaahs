@@ -1,5 +1,5 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=431c36&height=180&section=header&text=Oii, me chamo Isa, e sou estudante de Tecnologia !!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
-  
+
+ ## Oii, me chamo Isa, e sou estudante de Tecnologia !!
   
 <div align="center">
   <a href="https://github.com/isaahs"> 
@@ -38,12 +38,9 @@
   <a href="https://www.linkedin.com/in/isadora-mota-de-souza-42779522b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=isaahs&theme=dracula&hide_border=true&area=true)
-
 
 <div align="center">
   <p>Feito com :heart: e JavaScript.</p>
   <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=431c36&height=120&section=footer"/>
