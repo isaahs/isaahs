@@ -1,46 +1,38 @@
-
- ## Oii, me chamo Isa, e sou estudante de Tecnologia !!
-  
-<div align="center">
-  <a href="https://github.com/isaahs"> 
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=isaahs&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaahs&theme=radical&hide_border=false&&layout=compact"/>
+ <div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=3000&color=00080&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+My+Profile!" alt="Typing SVG">
   </a>
 </div>
-
-<div align="center" valign="top"><br>
-
-## Linguagens 
-
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
-</div><br>
-
-<div align="center"><br>
-  
- ## Ferramentas
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117) &nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-  
-</div><br>
-
-<div align="center">
-
-## Contatos
-
- <a href = "https://mail.google.com/mail/u/0/#inbox"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/isadora-mota-de-souza-42779522b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<h2 align="center" font-size=16>Hello, my name is Isadora and I'm a backend developer. 
+<br>
+<br>
+ 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=isaahs&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Isadora github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaahs&layout=compact&hide_border=true&title_color=fff&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
+ ## 🎓 Educational Background:
+  
+[<img align="left" height="120px" width="120px" alt="logofatecrl" src="https://i.ibb.co/FYR5CVX/fatecrl.png"/>](https://fatecrl.edu.br/)
 
-<div align="center">
-  <p>Feito com :heart: e JavaScript.</p>
-  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
-</div>
+**Analysis and Systems Development** \
+[**FATEC**]([https://fatecrl.edu.br/](https://fatecpg.edu.br/)) • Student \
+February 2022 - December 2024 \
+Languages and Technologies:  `JAVA`, `C++`, `PHP`, `Javascript`, `HTML`, `CSS`\
+<br>
+<br>
+  
+ ## 🛠️ Staks:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,python,java,docker,aws,spring,maven,mysql,postman" />
+  </a>
+</p>
+</div><br>
 
+## 📫 Contacts:
+<p align="center">
+   <a href="https://www.linkedin.com/in/isadora-mota-de-souza-dev/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" />
+   <a href = "https://mail.google.com/mail/u/0/#inbox"><img src="https://skillicons.dev/icons?i=gmail" />
+</p>
